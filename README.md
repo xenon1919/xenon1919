@@ -1,5 +1,5 @@
 
-[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYQGpBsvRVID7fIiLAbYksqUrzZEmzv6Qo47lje9XQ5jKxKUpSZQMThYNtJjGrE_yIEGRjqBEKLyTiGrj7wjBeLwcCI_To9GHaW7fmqi-V5dPbxmHEnyL9MATjkmInJa3g4qJgfAjmxZpyEakLyU4y1xgdSqDZcmcar7IClKRJXGiYUn_jmzuTuHJI0IA/s1584/Black%20Minimalist%20Corporate%20Business%20Profile%20LinkedIn%20Banner.png)](https://rishiverse.netlify.app)
+[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRWFn0qRIs-tqgDD2NvK7u71hynBIZar9UKF97tC5_1N-9Q1QSS9HpbxCVYAjK_wL8QSTDLQUeiYtWT66KCF5NU-lOpIeZ9GUKiH5hpTiHzrPZA0TVxSQSNw4T7vkx0RoLunOqtC-He0L8j971u5ALDTE_uQl5cxgalo69VwFoH-nTDU0X0knGjWjjn1k/s4950/Black%20Minimalist%20Corporate%20Business%20Profile%20LinkedIn%20Banner.png)](https://rishiverse.buzz)
 <h1 align="center">Hey there! 👋 ¡Hola! I am Ramanchi Rishi Sai Teja</h1>
 <h3 align="center">I'm your go-to geek for coding, web development, and AI/ML, armed with C, C++, and Python, and mastering web development. 🔧💻</h3>
 
