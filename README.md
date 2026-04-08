@@ -1,4 +1,4 @@
-[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRWFn0qRIs-tqgDD2NvK7u71hynBIZar9UKF97tC5_1N-9Q1QSS9HpbxCVYAjK_wL8QSTDLQUeiYtWT66KCF5NU-lOpIeZ9GUKiH5hpTiHzrPZA0TVxSQSNw4T7vkx0RoLunOqtC-He0L8j971u5ALDTE_uQl5cxgalo69VwFoH-nTDU0X0knGjWjjn1k/s4950/Black%20Minimalist%20Corporate%20Business%20Profile%20LinkedIn%20Banner.png)](https://rishiverse.buzz)
+[![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQEUAOU_8gcXMw/profile-displaybackgroundimage-shrink_350_1400/B56Z1tKAarKAAY-/0/1775652834928?e=1777507200&v=beta&t=ZpBUiP1M6Q6z-iiTVFDseMIOtBWEMQ5Zd_-29-FXFK0)](https://rishiverse.buzz)
 
 <h1 align="center">Hey there! 👋 ¡Hola! I am Ramanchi Rishi Sai Teja</h1>
 <h3 align="center">AI | Data Science | Full Stack Development | Intelligent Systems Builder 🚀</h3>
