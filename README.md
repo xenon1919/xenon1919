@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQEUAOU_8gcXMw/profile-displaybackgroundimage-shrink_350_1400/B56Z1tKAarKAAY-/0/1775652834928?e=1777507200&v=beta&t=ZpBUiP1M6Q6z-iiTVFDseMIOtBWEMQ5Zd_-29-FXFK0)](https://rishiverse.buzz)
+ [![MasterHead](https://github.com/user-attachments/assets/d1872430-90b5-419d-9852-146b0d718487)](https://rishiverse.buzz)
 
 <h1 align="center">Hey there! 👋 ¡Hola! I am Ramanchi Rishi Sai Teja</h1>
 <h3 align="center">AI | Data Science | Full Stack Development | Intelligent Systems Builder 🚀</h3>
