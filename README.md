@@ -12,7 +12,7 @@
 - 🔭 Working on AI-driven analytics, LLM applications, and data intelligence systems
 - 🌱 Deepening expertise in Machine Learning, Time Series Forecasting, and Applied AI
 - 💬 Open to discussions on AI, Data Science, Analytics, and Intelligent Automation
-- 📫 Reach me at **rishichinnur@gmail.com**
+- 📫 Reach me at **therishisaiteja@gmail.com**
 - ⚡ Fun fact: I enjoy turning messy data into decision-ready insights
 
 ---
