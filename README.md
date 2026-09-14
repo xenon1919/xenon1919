@@ -4,7 +4,7 @@
 <h3 align="center">AI | Data Science | Full Stack Development | Intelligent Systems Builder 🚀</h3> 
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=xenon1919&label=Profile%20views&color=0e75b6&style=flat" alt="xenon1919" /> 
+  <img src="https://komarev.com/ghpvc/?username=xenon1919&label=Profile%20views&color=0e75b6&style=flat" alt="xenon1919" />  
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif">
