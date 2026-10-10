@@ -1,5 +1,5 @@
  [![MasterHead](https://github.com/user-attachments/assets/d1872430-90b5-419d-9852-146b0d718487)](https://rishiverse.buzz)
-
+ 
 <h1 align="center">Hey there! 👋 ¡Hola! I am Ramanchi Rishi Sai Teja</h1>
 <h3 align="center">AI | Data Science | Full Stack Development | Intelligent Systems Builder 🚀</h3> 
 
